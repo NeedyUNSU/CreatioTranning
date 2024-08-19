@@ -7,6 +7,7 @@
 			<Item Name="LocalizableStrings.addRecord_3gtak31_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_obl1w2e_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.Button_jjf2upk_caption.Value" Value="Push me!" />
+			<Item Name="LocalizableStrings.NumberInput_0eehnm0_label.Value" Value="Number" />
 		</Items>
 	</Group>
 </Resources>
