@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Realty Offer Type" />
+			<Item Name="Columns.UsrColor.Caption" Value="Color" />
 			<Item Name="Columns.UsrCommissionPercent.Caption" Value="Commision Percent from 0 to 100" />
 		</Items>
 	</Group>
