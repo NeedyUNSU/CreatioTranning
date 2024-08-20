@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4811cc26-0e55-4600-a29e-830bd828460f",
+    "Name": "UsrRealityClassicFile",
+    "ModifiedOnUtc": "\/Date(1724145132000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "RealityClassic attachment",
+    "DependsOn": []
+  }
+}

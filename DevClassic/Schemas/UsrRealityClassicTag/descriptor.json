@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1b462607-b068-40cc-b7f2-51bb5141ef84",
+    "Name": "UsrRealityClassicTag",
+    "ModifiedOnUtc": "\/Date(1724145146000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "RealityClassic section tag",
+    "DependsOn": []
+  }
+}

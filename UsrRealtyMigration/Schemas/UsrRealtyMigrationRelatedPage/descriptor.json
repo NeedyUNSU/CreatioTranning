@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "c01f1c1b-00fb-485a-b20c-db9c7594e436",
+    "Name": "UsrRealtyMigrationRelatedPage",
+    "ModifiedOnUtc": "\/Date(1724147083000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Realty Migration (Page settings)",
+    "DependsOn": []
+  }
+}
